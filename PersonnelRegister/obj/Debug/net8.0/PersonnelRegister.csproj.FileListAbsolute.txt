@@ -1,0 +1,14 @@
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/bin/Debug/net8.0/PersonnelRegister
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/bin/Debug/net8.0/PersonnelRegister.deps.json
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/bin/Debug/net8.0/PersonnelRegister.runtimeconfig.json
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/bin/Debug/net8.0/PersonnelRegister.dll
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/bin/Debug/net8.0/PersonnelRegister.pdb
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/PersonnelRegister.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/PersonnelRegister.AssemblyInfoInputs.cache
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/PersonnelRegister.AssemblyInfo.cs
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/PersonnelRegister.csproj.CoreCompileInputs.cache
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/PersonnelRegister.dll
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/refint/PersonnelRegister.dll
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/PersonnelRegister.pdb
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/PersonnelRegister.genruntimeconfig.cache
+/Users/ammara/Desktop/CODE/PersonnelRegister/PersonnelRegister/obj/Debug/net8.0/ref/PersonnelRegister.dll
