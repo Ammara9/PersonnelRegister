@@ -29,7 +29,7 @@ The program is built using two classes:
 
 #### 2. **PersonnelRegister Class**
 - **Attributes**:
-    - `_employees`: A private list of `Employee` objects that stores all the registered employees. We use `List<Employee>` as it provides efficient storage and management of multiple employees.
+    - `employees`: A private list of `Employee` objects that stores all the registered employees. We use `List<Employee>` as it provides efficient storage and management of multiple employees.
 
 - **Methods**:
     - **AddEmployee(string name, decimal salary)**: Creates a new `Employee` object and adds it to the list. It also outputs a success message when an employee is successfully added.
